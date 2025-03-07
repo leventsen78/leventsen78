@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leventsen78&label=Profile%20views&color=0e75b6&style=flat" alt="leventsen78" /> </p>
 
-- 💼 I am founder of [Kabul Yazılım](kabulyazilim.com.tr)
+- 💼 I am founder of [kabulyazilim.com.tr](kabulyazilim.com.tr)
 
 - 👨‍💻 this is my website [leventsen.com](leventsen.com)
 
