@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leventsen78&label=Profile%20views&color=0e75b6&style=flat" alt="leventsen78" /> </p>
 
-- 👨‍💻 All of my projects are available at [leventsen.com](leventsen.com)
+- 💼 I am founder of [Kabul Yazılım](kabulyazilim.com.tr)
 
-- 📫 How to reach me **senlevent7@gmail.com**
+- 👨‍💻 this is my website [leventsen.com](leventsen.com)
+
+- 📫 How to reach me **leventsen@kabulyazilim.com.tr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
