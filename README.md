@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leventsen78&label=Profile%20views&color=0e75b6&style=flat" alt="leventsen78" /> </p>
 
-- 💼 I am founder of [kabulyazilim.com.tr](kabulyazilim.com.tr)
+- 💼 I am founder of <a href="https://kabulyazilim.com.tr" target="_blank">Kabul Yazılım</a>
 
-- 👨‍💻 this is my website [leventsen.com](leventsen.com)
+- 👨‍💻 this is my website <a href="https://leventsen.com" target="_blank">leventsen.com</a>
 
 - 📫 How to reach me **leventsen@kabulyazilim.com.tr**
 
